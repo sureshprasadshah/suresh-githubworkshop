@@ -1,6 +1,13 @@
 def feature1:
 <<<<<<< HEAD
+<<<<<<< HEAD
 	print "this is feature -1 branch"
+=======
+	print "this is feature -1 branch"
+
+def newFunction:
+	print "
+>>>>>>> feature-1
 =======
 	print "this is feature -1 branch"
 
